@@ -1,0 +1,2 @@
+item_drop.autocollect (Automatically collect nearby items) bool true
+item_drop.drop_nodes (Drop dug nodes) bool true
